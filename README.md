@@ -5,22 +5,16 @@ This is a repository template containing all the information that needs to accom
 
 Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
 ___________
-# Project Name
+# In-Flight Value Pass
 
 ## Challenge Statement(s) Addressed 🎯
-**...include the challenge statement(s) the project worked to address**
-
-Examples:
-* How might we decrease the United States chances of alien and monster attacks given what we know from popular alien and monster movies?
-* How might we make it possible for people in cities not to have to own a car by making car-sharing easier so that the environment will be less damaged and people can save money?
-* How might we ....
+The project aims to offer airline passengers a distinct and compelling in-flight Wi-Fi experience. While T-Mobile provides benefits to its customers, we are committed to ensuring that our feature is not exclusive to any specific carrier, making it accessible to a wider range of passengers. Our primary focus is on affordability and value, offering reduced Wi-Fi costs to make the flight experience more budget-friendly and enjoyable. Which involves survey-driven discounts and brief video advertisements, providing passengers a strong incentive to participate and gain valuable benefits during their flights.
 
 ## Project Description 🤯
-**....at lease 3 sentences describing what the project does and how it works**
+The project is designed to provide a unique in-flight Wi-Fi experience for airline passengers. It offers travelers the opportunity to access reduced Wi-Fi rates by participating in a brief survey during their flight. The process begins with passengers agreeing to terms and conditions, followed by a 30-second ad, after which they proceed to an 8-question multiple-choice survey, with an open-ended feedback option. Upon completing the survey, passengers are directed to a payment gateway, where they can avail of a $4 discount on the full duration flight Wi-Fi, reducing the price from $14 to $10. This feature is available exclusively on flights lasting 2.5 hours or more and also allows customers to save time by using their AA Advantage number, which is linked to their stored payment information.
 
 ## Project Value 💰
-**....at lease 3 sentences describing your target customer and tangible benefits from your solution**
-
+The project targets a diverse audience, from college students, to the budget-conscious traveler, and passengers who do not have annual or monthly Wi-Fi plans. The tangible benefits of this solution are multifaceted. Firstly, it offers cost savings by reducing the price of in-flight Wi-Fi from $14 to $10, which appeals to budget-conscious passengers and college students. Secondly, it enhances the user experience by providing an ad-supported survey that allows travelers to contribute their opinions while enjoying a discount for full-flight WiFi. Lastly, it benefits American Airlines by generating revenue through both survey data sales and increased Wi-Fi purchases, as well as by incentivizing customers to sign up for an AA account, which can foster long-term customer engagement and loyalty.
 
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
@@ -52,11 +46,11 @@ Binary Brigade
 **...point us to your PPT or Canva slides 😍**
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
-- [ ] Team photo
-- [ ] Team Slack channel
-- [ ] Communication established with mentor
-- [ ] Repo creation from this template
-- [ ] Hangar registration
+- [-] Team photo (![image](https://github.com/AATechCulture/Binary-Bigrade-Hack/assets/111023313/171a2699-d3d9-4688-a0af-68257c621a2b))
+- [-] Team Slack channel
+- [-] Communication established with mentor
+- [-] Repo creation from this template
+- [-] Hangar registration
 - [-] Scavenger Hunt submission
 
 ### Project Checklist due before 10a Sunday 11/5 🏁
