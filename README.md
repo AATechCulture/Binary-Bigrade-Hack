@@ -46,7 +46,8 @@ Binary Brigade
 **...point us to your PPT or Canva slides 😍**
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
-- [-] Team photo ![image](https://github.com/AATechCulture/Binary-Bigrade-Hack/assets/111023313/171a2699-d3d9-4688-a0af-68257c621a2b)
+- [-] Team photo![image](https://github.com/AATechCulture/Binary-Bigrade-Hack/assets/111023313/28349acc-5265-4173-a87a-222c33a09a64)
+
 - [-] Team Slack channel
 - [-] Communication established with mentor
 - [-] Repo creation from this template
