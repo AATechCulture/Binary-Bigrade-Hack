@@ -1,0 +1,125 @@
+.irrelevant {
+    width: 270px;
+    height: 190px;
+    background-color: #fff;
+    /*text-align: center;*/
+    padding: 20px;
+    border-radius: 5px;
+ /*   align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
+
+/*.irrelevant button {
+    margin-top: 10px; /* Add some space between the text and the button *
+    margin-bottom: 20px;
+
+*/
+
+/*#money{
+    font-size: larger;
+    margin-left: 20px; 
+}*/
+
+.inflight{
+        width: 270px;
+        height: 190px;
+        background-color: #fff;
+        /*text-align: center;*/
+        padding: 20px;
+        border-radius: 5px;
+        /*align-content: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;*/
+}
+#newt{
+    color:#fff;
+    font-weight: 100;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 0.5;
+    align-content: center;
+}
+
+.modal-content {
+    background-color: #ffffff;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+}
+
+.close {
+    float: right;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+form {
+    text-align: center;
+}
+
+#openSurvey {
+    background-color: #0D73B1;
+    height: 35px;
+    width: 175px;
+    font: SwitzeraADF;
+    color: #fff;
+     
+}
+#openSurvey2 {
+    background-color: #0D73B1;
+    height: 35px;
+    width: 175px;
+    font: SwitzeraADF;
+    color: #fff;
+     
+}
+#openSurvey3 {
+    background-color: #0D73B1;
+    height: 35px;
+    width: 175px;
+    font: SwitzeraADF;
+    color: #fff;
+     
+}
+
+#page {
+    background-color: black;
+}
+
+/* Add more styles as needed */
+.connect {
+    width: 270px;
+    height: 190px;
+    background-color: #fff;
+    /*text-align: center;*/
+    padding: 20px;
+    border-radius: 5px;
+ /*   align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
