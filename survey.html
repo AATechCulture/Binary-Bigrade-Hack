@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body id = page>
+    
+    <div class = irrelevant>
+        <h4>Flight Pass <p id = money>$29</p></h4>
+        <p>Spend your flight streaming your favorite video services or browsing at high speeds</p>
+        <p>Valid on 1 device</p>
+        <button id="openSurvey2"> Buy </button>
+        <br>
+    </div>
+
+    <div>
+    <br>
+    </div>
+ 
+    <div class = inflight>
+    <h4>In-Flight Connection</h4>
+    <p><b>Free</b> Wi-Fi for eligible customers - includes streaming</p>
+    <button id="openSurvey"> Get Started </button>
+
+    <div id="surveyModal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="closeSurvey">&times;</span>
+            <h2>Feedback Survey</h2>
+            <p>Please answer the following true or false questions:</p>
+            <form id="surveyForm">
+                <div class="question">
+                    <p>What type of device will you be using to connect to the WiFi?</p>
+                    <label>
+                        <input type="radio" name="question1" value="true"> Laptop
+                    </label>
+                    <br>
+                    <label>
+                        <input type="radio" name="question1" value="false"> Smartphone
+                    </label>
+                    <br>
+                    <label>
+                        <input type="radio" name="question1" value="true"> Tablet
+                    </label>
+                    <br>
+                    <label>
+                        <input type="radio" name="question1" value="false"> Other
+                    </label>
+                </div>
+
+                <!-- Repeat the question structure for questions 2 to 8 -->
+
+                <div class="question">
+                    <p>How satisfied are you with the airline's pre-flight communication and information regarding WiFi availability and pricing?</p>
+                    <label>
+                        <input type="radio" name="question8" value="true"> True
+                    </label>
+                    <label>
+                        <input type="radio" name="question8" value="false"> False
+                    </label>
+                    <label>
+                        <input type="radio" name="question8" value="true"> True
+                    </label>
+                    <label>
+                        <input type="radio" name="question8" value="false"> False
+                    </label>
+                </div>
+
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+
+
+
+    </div>
+    <h2 id = newt> Complimentary Wi-Fi</h2>
+
+    <div class = connect>
+        <h4>Get Connected</h4>
+        <p>Enjoy a time-limited high speed Wi-Fi session</p>
+        <button id="openSurvey3"> Check Availability </button>
+
+    <script src="survey.js"></script>
+</body>
+</html>
